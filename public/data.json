@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PYT10123",
+    "title": "Introduction to Python Programming",
+    "cover": "https://i.ibb.co/FWLSdty/Introduction-to-Python-Programming.jpg",
+    "description": "Learn Python basics and essentials in this comprehensive introductory course.",
+    "price": 80,
+    "course_credit": 3
+  },
+  {
+    "id": "WEB20456",
+    "title": "Web Development Fundamentals",
+    "cover": "https://i.ibb.co/sbJFp7c/Web-Development-Fundamentals.jpg",
+    "description": "Explore the fundamentals of web development with HTML, CSS, and JavaScript.",
+    "price": 90,
+    "course_credit": 4
+  },
+  {
+    "id": "DAT30678",
+    "title": "Data Science for Beginners",
+    "cover": "https://i.ibb.co/CPwr80W/Data-Science-for-Beginners.jpg",
+    "description": "An introduction to data science concepts and tools for beginners.",
+    "price": 71,
+    "course_credit": 5
+  },
+  {
+    "id": "GRD40981",
+    "title": "Graphic Design Masterclass",
+    "cover": "https://i.ibb.co/4dcYTh9/Graphic-Design-Masterclass.webp",
+    "description": "Master the art of graphic design with this comprehensive masterclass.",
+    "price": 65,
+    "course_credit": 4
+  },
+  {
+    "id": "MOB51234",
+    "title": "Mobile App Development with React Native",
+    "cover": "https://i.ibb.co/7ts46f0/Mobile-App-Development-with-React-Native.jpg",
+    "description": "Build cross-platform mobile apps using React Native framework.",
+    "price": 110,
+    "course_credit": 5
+  },
+  {
+    "id": "PHO61617",
+    "title": "Photography Basics and Techniques",
+    "cover": "https://i.ibb.co/mFZ3vvg/Photography-Basics-and-Techniques.jpg",
+    "description": "Learn the basics of photography and various techniques to improve your skills.",
+    "price": 40,
+    "course_credit": 2
+  },
+  {
+    "id": "FIN71823",
+    "title": "Financial Literacy and Investment Strategies",
+    "cover": "https://i.ibb.co/Cm9F0pv/Financial-Literacy-and-Investment-Strategies.jpg",
+    "description": "Understand financial basics and learn investment strategies for better financial planning.",
+    "price": 300,
+    "course_credit": 6
+  },
+  {
+    "id": "AI82029",
+    "title": "Artificial Intelligence Essentials",
+    "cover": "https://i.ibb.co/LYbpP3W/Artificial-Intelligence-Essentials.webp",
+    "description": "An overview of AI concepts and applications in today's world.",
+    "price": 130,
+    "course_credit": 4
+  },
+  {
+    "id": "CRE92345",
+    "title": "Creative Writing Workshop",
+    "cover": "https://i.ibb.co/yXnhjVw/Creative-Writing-Workshop.jpg",
+    "description": "Unleash your creativity and improve your writing skills through this workshop.",
+    "price": 180,
+    "course_credit": 3
+  }
+]
